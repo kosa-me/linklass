@@ -2,7 +2,7 @@
   "name": "linklass",
   "displayName": "Linklass",
   "description": "HTMLファイル内のCSSクラス名をリアルタイムでCSS側に補完するVSCode拡張機能",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/kosa-me/linklass.git"
